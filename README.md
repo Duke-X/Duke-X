@@ -5,9 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duke-x&label=Profile%20views&color=368c6b&style=flat-square" alt="duke-x" /> </p>
 
-- 🌱 I’m currently learning **DevOps Tech, DSA in C++.**
-
+- 🔥 Stay Disciplined & Keep Grinding!
+- 🌱 I'm currently learning:
+  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/VadishChhatwal22/)
+  - DevOps Tech
 - 📫 How to reach me **vadishchhatwal04@gmail.com**
+- ✍ I'm learning to write blogs on [Hashnode](https://dukex.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
