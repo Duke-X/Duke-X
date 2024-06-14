@@ -1,7 +1,7 @@
 ![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgzNjEwNDQsIm5iZiI6MTcxODM2MDc0NCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE0VDEwMjU0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI2M2UxZGE3OGYzNGNiN2EwMTg5OTNkMTdmNWVmYWYyY2E2NzQ4OWY5ZDAwOGYxMTdmZDBmNGZjZWI0YTNiMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.--geRVZ6-oISLOQH0jajKPU_jDjsEz9qgmEZal_2Zg8)
 <h1 align="center">Hi 👋, I'm Vadish Chhatwal</h1>
 <h3 align="center">Discipline and Creativity: The Software Engineer's Journey</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlmOXloamMzNTdpY2xjZ3RrZWRzMzRsYTU4cHNvODNycmtmaW41YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp">
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlmOXloamMzNTdpY2xjZ3RrZWRzMzRsYTU4cHNvODNycmtmaW41YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duke-x&label=Profile%20views&color=368c6b&style=flat-square" alt="duke-x" /> </p>
 
