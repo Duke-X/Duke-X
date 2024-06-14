@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vadish Chhatwal</h1>
 <h3 align="center">Discipline and Creativity: The Software Engineer's Journey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duke-x&label=Profile%20views&color=0e75b6&style=flat" alt="duke-x" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duke-x" alt="duke-x" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=duke-x&label=Profile%20views&color=368c6b&style=flat-square" alt="duke-x" /> </p>
 
 - 🌱 I’m currently learning **DevOps Tech, DSA in C++.**
 
