@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duke-x&show_icons=true&theme=tokyonight&locale=en" alt="duke-x" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duke-x&theme=dark" alt="duke-x" /></p>
+
+<p><img align="left" width="350" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" alt="duke" /></p>
+<p><img align="center" width="350" src="https://user-images.githubusercontent.com/74038190/216655835-a5f1d93e-f8b1-44da-90ec-e52e833824f6.gif" alt="duke" /></p>
