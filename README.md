@@ -8,9 +8,8 @@
 - 🔥 Stay Disciplined & Keep Grinding!
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/VadishChhatwal22/)
-  - DevOps Tech
+  - Full Stack Web Development
 - 📫 How to reach me **vadishchhatwal04@gmail.com**
-- ✍ I'm learning to write blogs on [Hashnode](https://dukex.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
